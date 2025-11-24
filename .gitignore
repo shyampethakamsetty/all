@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+amenities/
+# Build outputs
+build/
+.next/
+
+# Logs
+logs/
+
